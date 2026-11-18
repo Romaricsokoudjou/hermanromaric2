@@ -1,0 +1,14 @@
+node_modules
+.next
+.env
+.env.local
+*.log
+next-env.d.ts
+public/images/*/*
+public/videos/*
+public/documents/*
+public/banners/*
+!public/**/.gitkeep
+.env.local
+.env.local
+.env.local
